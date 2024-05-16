@@ -20,10 +20,10 @@ predicted wakefield density.
 
 ### Dependencies
 
-pytorch 2.2.2
-numpy 1.26.3
-A GPU is assumed to be available for training; you can try modifying the code to run without one but it will be a very
-slow process.
+pytorch 2.2.2  
+numpy 1.26.3 
+A GPU is assumed to be available for training; you can try modifying the code to run without one but it will be a very 
+slow process.  
 
 ### Executing program
 
