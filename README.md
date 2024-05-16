@@ -8,6 +8,10 @@ as well as two older versions for reference, and the data partitions and weights
 are txts (should be updated to jsons soon), and, assuming the ordering of the files in the source directory is not changed,
 indicate the indices in the data array populated by load_data corresponding to training, validation, and test data.
 
+The raw data consists of a series of simulation outputs from JuliaCSR2D (https://github.com/weiyuanlou/JuliaCSR2D). These
+are h5 files containing a sequence of wakefields and beam densities, stored as 2d arrays, as well as geometric scale 
+parameters, at each step s of the tracking. 
+
 ### Dependencies
 
 pytorch 2.2.2
