@@ -1,1 +1,1 @@
-This is the current training data for the (hybrid) CNN
+This is the current training data for the (hybrid) CNN. These are h5 files containing the output of JuliaCSR2D simulations with 20 tracking steps.
