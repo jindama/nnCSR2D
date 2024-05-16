@@ -1,6 +1,4 @@
-# Project Title
-
-nnCSR2D
+# nNCSR2D
 
 ## Description
 
