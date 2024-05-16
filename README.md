@@ -1,4 +1,4 @@
-# nNCSR2D
+# nnCSR2D
 
 ## Description
 
