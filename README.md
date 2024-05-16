@@ -23,5 +23,5 @@ The notebook should be executed sequentially, with appropriate changes to the fi
 
 ## Authors
 
-Obed Camacho\\
+Obed Camacho\n
 River Robles
